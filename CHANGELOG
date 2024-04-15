@@ -1,3 +1,6 @@
+1.8.2.1
+- App PrivacyInfo
+
 1.8.2
 - Enable VisionOS as supported platform for Xcode project and SwiftPM package
 - Tweak CocoaPods setup for privacy manifest
